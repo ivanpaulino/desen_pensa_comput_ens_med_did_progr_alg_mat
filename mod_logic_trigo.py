@@ -1,3 +1,10 @@
+'''
+Criando anotações em TCC
+
+
+
+'''
+
 import math
 
 print("--- Explorador de Trigonometria ---")
